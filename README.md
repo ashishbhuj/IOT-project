@@ -1,1 +1,1 @@
-# IOT-project
+# IOT-project (Temperature and Humidity Monitoring System)
